@@ -18,7 +18,8 @@ namespace RSSReader
         public Form1()
         {
             InitializeComponent();
-
+            VremenskaPrognoza vp = new VremenskaPrognoza();
+            vp.Show();
             /*String url = "https://mercury.postlight.com/parser?url=http://www.time.mk/rss/all";
             HttpWebRequest request = (HttpWebRequest) WebRequest.Create(url);
             request.Method = "GET";

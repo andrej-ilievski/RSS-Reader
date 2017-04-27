@@ -12,3 +12,11 @@ C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\De
 C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.Form1.resources
 C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
 C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.exe
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.pdb
+F:\VP_Proekt\Vp_proba\RSSReader\bin\Debug\RSSReader.exe
+F:\VP_Proekt\Vp_proba\RSSReader\bin\Debug\RSSReader.pdb
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.Form1.resources
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
+F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.VremenskaPrognoza.resources
