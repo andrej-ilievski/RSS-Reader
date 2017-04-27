@@ -1,0 +1,14 @@
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\obj\x86\Debug\RSSReader.Form1.resources
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\obj\x86\Debug\RSSReader.exe
+C:\Users\Andrej\AppData\Local\Temporary Projects\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.exe
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.Form1.resources
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
