@@ -50,6 +50,7 @@ namespace RSSReader
         private void button1_Click(object sender, EventArgs e)
         {
             String url = this.textBox1.Text;
+            MessageBox.Show("Ahem"+url);
             //List<SyndicationItem> lista = new List<SyndicationItem>();
             using (XmlReader reader = XmlReader.Create(url))
             {

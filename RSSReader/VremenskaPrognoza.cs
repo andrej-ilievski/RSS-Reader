@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.Net;
 using System.Xml;
 using System.IO;
+using System.ServiceModel.Syndication;
+using System.Xml.Linq;
 
 namespace RSSReader
 {
@@ -36,6 +38,7 @@ namespace RSSReader
 
             string url = CurrentUrl.Replace("@LOC@", tbLokacija.Text);
             tbXML.Text = GetFormattedXml(url);
+            
         }
 
 
@@ -49,24 +52,32 @@ namespace RSSReader
 
         private string GetFormattedXml(string url)
         {
-
+           
             using (WebClient client = new WebClient())
             {
 
                 string xml = client.DownloadString(url);
-
-
+                
+               
+                
                 XmlDocument xml_document = new XmlDocument();
                 xml_document.LoadXml(xml);
+                XmlNodeList grad = xml_document.GetElementsByTagName("city");
 
-
+                string attrVal=null;
+                for (int i = 0; i < grad.Count; i++)
+                {
+                    attrVal = grad[i].Attributes["name"].Value.ToString();
+                }
+                MessageBox.Show(attrVal);
                 using (StringWriter string_writer = new StringWriter())
                 {
                     XmlTextWriter xml_text_writer = new XmlTextWriter(string_writer);
+                    
                     xml_text_writer.Formatting = Formatting.Indented;
                     xml_document.WriteTo(xml_text_writer);
 
-
+                    MessageBox.Show(string_writer.ToString());
                     return string_writer.ToString();
                 }
             }
