@@ -21,3 +21,5 @@ F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.res
 F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
 F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.VremenskaPrognoza.resources
 F:\VP_Proekt\Vp_proba\RSSReader\obj\x86\Debug\RSSReader.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\Github\RSSReader\obj\x86\Debug\RSSReader.exe
+C:\Users\Andrej\Documents\Visual Studio 2010\Projects\Github\RSSReader\obj\x86\Debug\RSSReader.pdb
